@@ -11,6 +11,8 @@ Pandas の DataFrame や、 plotlyなどの描画ライブラリで作成した�
   
 なお、今回の講座でプログラミング言語Pythonの解説は最小限となりますが、Pythonの基礎を解説するノートブックを予め配布します。  
 Pythonの開発環境にはGoogle Colaboratoryをメインで使用します。  
+
+[人工知能Webアプリを手軽に公開しよう！](https://liveai.connpass.com/event/242169/)（connpass）  
     
 ### 自由研究室 AIRS-Lab（コミュニティ）
 「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
